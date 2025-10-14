@@ -26,10 +26,10 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "[✅]𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗\n━━━━━━━━━━━\n➤﹝🌐﹞𝙿𝚛𝚎𝚏𝚒𝚡「%1」\n𝗕𝗢𝗧:💬»𝗔𝗘𝗦𝗧𝗛𝗘𝗥\n➤[🛄]𝗢𝗪𝗡𝗘𝗥 :\n✞︎https://www.facebook.com/thegodess.aesther✞︎\n",
+			welcomeMessage: "[✅]𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗\n━━━━━━━━━━━\n➤﹝🌐﹞𝙿𝚛𝚎𝚏𝚒𝚡「%1」\n𝗕𝗢𝗧:💬»𝗔𝗘𝗦𝗧𝗛𝗘𝗥\n➤[🛄]𝗢𝗪𝗡𝗘𝗥 :\n✞︎https://www.facebook.com/︎AryChauchan.✞\n",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `( ◍ • ᴗ • ◍ ) 𝗛i ‼️\n━━━━━━━━━━\n[🆔] {userName}\n[🌐] {boxName}\n[🪅] prefix : [@] \n━━━━━━━━━━\nbe 𝗞ind & 𝗡ice here`
+			defaultWelcomeMessage: `( ◍ • ᴗ • ◍ ) 𝗛i ‼️\n━━━━━━━━━━\n[🆔] {userName}\n[🌐] {boxName}\n[🪅] prefix : [+] \n━━━━━━━━━━\nbe 𝗞ind & 𝗡ice here`
 		}
 	},
 
